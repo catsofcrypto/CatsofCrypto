@@ -1,7 +1,7 @@
 {
   "name": "CatsOfCrypto",
   "symbol": "COC",
-  "uri": "https://raw.githubusercontent.com/catsofcrypto/CatsofCrypto/main/catsofcrypto.json"
+  "uri": "https://raw.githubusercontent.com/catsofcrypto/CatsofCrypto/main/catsofcrypto.json",
   "description": "Cats of Crypto meme token test.",
   "image": "https://github.com/catsofcrypto/CatsofCrypto/blob/main/coc.png?raw=true"
 }
