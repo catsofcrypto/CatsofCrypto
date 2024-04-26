@@ -1,5 +1,11 @@
 {
   "name": "CatsOfCrypto",
   "symbol": "COC",
-  "uri": "https://raw.githubusercontent.com/catsofcrypto/CatsofCrypto/main/catsofcrypto.json"
-}
+  "image": "https://github.com/catsofcrypto/CatsofCrypto/blob/main/coc.png?raw=true",
+  "description": "Dedicated to Ovalbore Tech - Erik",
+  "creator": {
+    "name": "Ovalbore Lovers - Pelish - Arc - SerpentX - Val Franklin",
+    "site": "https://www.youtube.com/c/OvalboreTech",
+    "twitter": "https://twitter.com/OvalboreTech"
+  }
+} 
